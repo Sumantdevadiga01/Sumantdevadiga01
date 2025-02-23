@@ -1,6 +1,6 @@
 ## Hi  👋 I am Sumant M Devadiga !!!
 
-<!# 💫 About Me:
+<!# 
 exel expert | Data analyst!!
 
 
